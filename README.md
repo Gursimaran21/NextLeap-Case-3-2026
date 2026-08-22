@@ -32,4 +32,4 @@ Building the metrics dashboard is of utmost importance due to the following reas
 
 Prerana is under time pressure as she has to present a prototype of the dashboard on Excel to her Product Lead in a week. Before the excitement of working on this project turns into anxiety and panic, she gets going with her work by starting to note down the key metrics that she would include in the dashboard.
 
-## **Click on** **[Wanderlust Travel Solution](wanderlusttravel.md)**
+## **Click on** **[Wanderlust Travel One](wanderlusttravelone.md)**
