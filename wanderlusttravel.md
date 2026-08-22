@@ -21,3 +21,13 @@ Currently, the team faces challenges due to a lack of a centralised metrics dash
 ### Wanderlust Travel Search Team Goal
 
 To overcome existing challenges and enhance the team's efficiency, Prerana recognizes the critical need for a comprehensive metrics dashboard. The search team goal is to create a centralized dashboard to track system health, user engagement, revenue generation, and search efficiency to keep Wanderlust Travel competitive.
+
+### The following 4 Key Categories for the Metrics Dashboard must be considered when designing the dashboard:
+
+**1. Key Performance Indicators (KPIs):** Core business and functional indicators (e.g., Search Conversion Rate, Search-to-Booking Ratio, Total Search Volume).
+   
+**2. User Engagement Metrics:** User behavior patterns to enable personalization (e.g., Click-Through Rate (CTR) on search results, Average Time Spent on Results Page, Drop-off/Abandonment Rate).
+   
+**3. Revenue Metrics:** Financial impact driven by the search funnel (e.g., Average Order Value (AOV) per search, Revenue per Search (RPS), Conversion by Travel Package/Product type).
+   
+**4. Operational Metrics:** Technical health and stability of the search infrastructure (e.g., Search Latency/Response Time, Error Rates, API Uptime/Availability).
