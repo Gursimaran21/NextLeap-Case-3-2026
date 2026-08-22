@@ -32,7 +32,7 @@ This is also consistent with travel analytics approaches that connect search/ref
 
 **2. Dashboard Structure:**
 
-I recommend **5 Excel sheets.**
+I recommend **5 Excel Sheets.**
 
 | Sheet                      | Purpose                          |
 | -------------------------- | -------------------------------- |
@@ -42,3 +42,4 @@ I recommend **5 Excel sheets.**
 | **4. Revenue**             | Connect search to business value |
 | **5. Operations**          | Monitor search infrastructure    |
 
+This structure directly addresses the case's problem of scattered information and enables faster, data-driven decisions.
