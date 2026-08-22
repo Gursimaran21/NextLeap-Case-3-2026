@@ -127,3 +127,151 @@ Then:
 = **5%**
 
 These numbers are **illustrative only**, not Wanderlust's actual performance.
+
+iii **Sheet 3 - User Engagement Metrics:**
+
+The case explicitly says that understanding user behaviour can help the Search team personalize the experience and improve engagement.
+
+I would divide engagement into four areas.
+
+**A. Search Adoption**
+
+| Metric          | Definition                     |
+| --------------- | ------------------------------ |
+| Search Users    | Unique users performing search |
+| Searches/User   | Total searches / Search users  |
+| Search Sessions | Sessions containing search     |
+| Search Adoption | Users searching / Active users |
+
+**B. Search Behaviour**
+
+| Metric                 | What It Tells Us                       |
+| ---------------------- | -------------------------------------- |
+| Searches per Session   | Search intensity                       |
+| Query Refinement Rate  | How often users modify searches        |
+| Filter Usage Rate      | Whether filters are useful             |
+| Sort Usage Rate        | Whether users need alternative ranking |
+| Repeat Search Rate     | Whether users keep looking             |
+| Average Results Viewed | Depth of exploration                   |
+| Time to First Click    | Search decision speed                  |
+
+**C. Search Quality**
+
+| Metric                   | What It Tells Us                  |
+| ------------------------ | --------------------------------- |
+| Zero-result Rate         | Missing inventory / poor matching |
+| Result CTR               | Relevance/attractiveness          |
+| Search Abandonment       | Users leaving without engaging    |
+| Query Reformulation Rate | Possible poor relevance           |
+| No-click Rate            | Users don't find results useful   |
+
+**D. Retention**
+
+| Metric                 | Definition                             |
+| ---------------------- | -------------------------------------- |
+| Returning Search Users | Users who search again                 |
+| Search Retention       | Users returning to search after X days |
+| Repeat Booking Rate    | Returning customers who book again     |
+
+**Very Important: Segment the Metrics**
+
+A dashboard without segmentation can hide major problems.
+
+I would make these **global Excel filters**:
+
+**User**
+- New vs Existing
+- Logged-in vs Guest
+- High-frequency vs Low-frequency
+
+**Platform**
+- Android
+- iOS
+- Web
+
+**Travel Type**
+- Flight
+- Hotel
+- Vacation package
+
+**Geography**
+- Country
+- Region
+- Origin
+- Destination
+
+**Search Characteristics**
+- Domestic vs International
+- One-way vs Round-trip
+- Short vs Long lead time
+- Popular vs long-tail destination
+
+**Date**
+- Day
+- Week
+- Month
+
+Travel analytics platforms similarly use dimensions such as geography, routes, device, travel dates and travel type to diagnose performance.
+
+iv. **Sheet 4 - Revenue Metrics:**
+
+The case specifically identifies revenue generation as an important component of Search metrics.
+
+The key principle:
+
+**Don't just measure how many people search. Measure how effectively search creates economic value.**
+
+**Core Revenue Metrics**
+
+| Metric                           | Formula                                       |
+| -------------------------------- | --------------------------------------------- |
+| **Search-attributed Revenue**    | Revenue from search-originated bookings       |
+| **Revenue/Search**               | Search revenue / Search sessions              |
+| **Booking Value**                | Total booking value                           |
+| **Average Booking Value**        | Booking value / Number of bookings            |
+| **Search-to-Revenue Conversion** | Revenue-generating bookings / Search sessions |
+| **Revenue per User**             | Search revenue / Search users                 |
+| **Cancellation Rate**            | Cancelled bookings / Completed bookings       |
+| **Refund Rate**                  | Refunded bookings / Completed bookings        |
+
+**Revenue Diagnostic Tree**
+
+<img width="250" height="250" alt="case_3_img_3" src="https://github.com/user-attachments/assets/30a68618-49e3-4f18-b9fe-3226142197b8" />
+
+This helps answer:
+
+"Revenue declined — did fewer users book, or did users book cheaper products?"
+
+That's much more actionable than simply showing "Revenue ↓".
+
+v. **Sheet 5 - Operational Metrics:**
+
+The case specifically says Search infrastructure stability and performance must be monitored.
+
+I would track:
+
+| Metric                         | Purpose                          |
+| ------------------------------ | -------------------------------- |
+| **Search Latency P50**         | Typical response time            |
+| **Search Latency P95**         | Slow-user experience             |
+| **Search Latency P99**         | Extreme latency                  |
+| **Search Error Rate**          | Failed searches                  |
+| **API Error Rate**             | Backend failures                 |
+| **Timeout Rate**               | Search requests timing out       |
+| **Search Availability**        | System uptime                    |
+| **Result Freshness**           | How current inventory/prices are |
+| **Inventory Availability**     | Searchable inventory health      |
+| **Data Pipeline Failure Rate** | Data quality                     |
+| **Crash Rate**                 | App stability                    |
+| **Incident Count**             | Operational reliability          |
+
+**Why P95 instead of only average latency?**
+
+Because an average can hide a bad tail.
+
+Example:
+
+Average latency = 1.2 sec
+P95 latency     = 5.8 sec
+
+The average looks healthy, but 5% of users may be experiencing a very slow search.
