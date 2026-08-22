@@ -28,8 +28,7 @@ This is also consistent with travel analytics approaches that connect search/ref
 
 **Metric Tree**
 
-<img width="500" height="400" alt="case_3_img_1" src="https://github.com/user-attachments/assets/aca143fb-f52f-45ce-a8bf-87493a527b26" />
-
+<img width="500" height="300" alt="case_3_img_1" src="https://github.com/user-attachments/assets/aca143fb-f52f-45ce-a8bf-87493a527b26" />
 
 **2. Dashboard Structure:**
 
