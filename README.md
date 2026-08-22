@@ -31,3 +31,5 @@ Building the metrics dashboard is of utmost importance due to the following reas
 **4. Resource Allocation:** With limited resources, it is crucial to allocate them effectively. Prerana understands that a metrics dashboard will enable the team to identify low-performing features or areas that require additional investment. This information will empower them to reallocate resources strategically.
 
 Prerana is under time pressure as she has to present a prototype of the dashboard on Excel to her Product Lead in a week. Before the excitement of working on this project turns into anxiety and panic, she gets going with her work by starting to note down the key metrics that she would include in the dashboard.
+
+## **Click on** **[Wanderlust Travel Solution](wanderlusttravel.md)**
