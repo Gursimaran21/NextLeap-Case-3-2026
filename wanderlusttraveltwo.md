@@ -269,10 +269,11 @@ I would track:
 
 Because an average can hide a bad tail.
 
-## Go back to [README](README.md) **or** **Click on** **[Wanderlust Travel Page Three](wanderlusttravelthree.md)**
 Example:
 
 Average latency = 1.2 sec
 P95 latency     = 5.8 sec
 
 The average looks healthy, but 5% of users may be experiencing a very slow search.
+
+## Go back to [README](README.md) **or** **Click on** **[Wanderlust Travel Page Three](wanderlusttravelthree.md)**
