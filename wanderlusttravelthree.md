@@ -244,8 +244,8 @@ Because together they answer:
 
 **The dashboard would be segmented by platform, geography, travel product, user type and search characteristics so the team can identify where performance gaps originate. The Excel MVP would contain an Executive Dashboard, Search Funnel, User Engagement, Revenue and Operational Health views, with current performance, previous-period comparison, trends and traffic-light status.**
 
-## Go back to [README](README.md)
-
 **This approach converts fragmented data into an actionable decision system: the team can identify what changed, understand why it changed, prioritize the highest-impact problems and allocate resources accordingly.**
 
 That directly addresses the case's central challenge: moving Wanderlust's Search team from **manual, fragmented analysis to faster, data-driven product decisions.**
+
+## Go back to [README](README.md)
