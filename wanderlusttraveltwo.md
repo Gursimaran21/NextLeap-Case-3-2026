@@ -269,6 +269,7 @@ I would track:
 
 Because an average can hide a bad tail.
 
+## Go back to [README](README.md) **or** **Click on** **[Wanderlust Travel Page Three](wanderlusttravelthree.md)**
 Example:
 
 Average latency = 1.2 sec
